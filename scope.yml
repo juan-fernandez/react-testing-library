@@ -1,0 +1,4 @@
+# Scope Agent configuration file
+scope:
+  instrumentation:
+    enabled: true
